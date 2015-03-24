@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Bloopark Reports",
+    'name': "Transparent Navbar",
 
     'summary': """
-    Provide custom report style""",
+    Provide a sticky, transparent navbar for odoo""",
 
     'description': """
     Provide custom report style""",
@@ -16,15 +16,10 @@
 
     'depends': [
         'base',
-        'website',
-        'sale_layout'
+        'website'
     ],
     'data': [
-        'views/layout.xml',
-        'views/invoice.xml',
-        'views/style.xml',
-        'views/res_company_view.xml',
-        'views/quotation.xml'
+        'views/navbar.xml'
     ],
 
     'demo': [
