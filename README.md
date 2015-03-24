@@ -1,0 +1,2 @@
+Odoo transparent navbar
+=======================
