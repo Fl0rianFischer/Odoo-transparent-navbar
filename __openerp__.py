@@ -6,9 +6,9 @@
     Provide a sticky, transparent navbar for odoo""",
 
     'description': """
-    Provide custom report style""",
+    This addon provides a transparent Navbar for Odoo.""",
 
-    'author': "bloopark systems GmbH & Co. KG",
+    'author': "Florian Fischer",
     'website': "http://www.bloopark.de",
 
     'category': 'Modal',

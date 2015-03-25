@@ -36,8 +36,6 @@
 		border-bottom: 1px solid white;
 	}
 	
-	
-	/* Styles after scroll */ 
 	#custom-nav .container {
 	    padding-top: 25px;
 	   	padding-bottom: 25px;
@@ -45,7 +43,8 @@
 	    -moz-transition: padding-top .5s ease, padding-bottom .5s ease;
 	    transition: padding-top .5s ease, padding-top .5s ease, padding-bottom .5s ease;
 	}
-	
+
+	/* Styles after scroll */ 
 	#custom-nav.affix {
 	    top: 0;
 	    min-width: 100%;
